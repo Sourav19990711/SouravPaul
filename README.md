@@ -1,7 +1,7 @@
 ### Hi there 👋, Sourav Paul
 #### Software Devolopment Engineer
-![Technical Analyst]
-https://github.com/Sourav19990711/SouravPaul/blob/main/1656956102604.jpg
+![Technical Analyst](https://github.com/Sourav19990711/SouravPaul/blob/main/1656956102604.jpg?raw=true)
+
 
 Reach me at souravpaul689@gmail.com
 
