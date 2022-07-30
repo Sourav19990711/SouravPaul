@@ -1,5 +1,5 @@
 ### Hi there 👋, Sourav Paul
-#### Technical Analyst
+#### Technical Analyst @HCLite
 ![Technical Analyst](https://media-exp1.licdn.com/dms/image/C4D16AQHrwDi5sR0rKw/profile-displaybackgroundimage-shrink_350_1400/0/1656956102604?e=1664409600&v=beta&t=XnKdJt5Er8FitgZkNk7Kr4fDeSeZfXL586F_vXeMr38)
 
 Reach me at souravpaul689@gmail.com
