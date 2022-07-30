@@ -9,9 +9,27 @@ Sourav is someone who tries to venture into a lot of aspects of technology, he l
 As 90s kid I was very fascinate about technologies and learning about how computers and electronics devices how they actually work so here it goes I began my career as B.tech in Electronics & Communicaton Engineering in 2017 and I passed out in 2021 .
 Highly experienced In Go, PHP, Java and scripting languages like HTML,CSS and Javascript and database language SQL & AWS, Azure, GCP. Interested in distributed systems, backend engineering & cloud-native technologies. Open Source Enthusiast. Love to deep dive into cool technologies.
 
-## example of work
+## Skills And Experiences:
+* Azure Devops
+* AWS
+* Cloud Computing
+* O365
+* Exchenge Server
+* Teraform
+* C Programing
+* Data Structures & algorithm
+* DBMS
+* Go
+* Php
+* MAgento
+* Wordpress
+* HTMl
+* CSS
+* JS 
+* JQuerry
 
-Skills: Azure / AWS / Teraform  C / Datat structure / DBMS /O365 /Azure Devops / Go /JS / HTML / CSS
+
+ 
 
 - 🔭 I’m currently working on this page. 
 - 📫 How to reach me: souravpaul689@gmail.com 
